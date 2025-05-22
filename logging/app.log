@@ -1,0 +1,21 @@
+2025-05-18 15:04:06.690 - INFO - Checking temperature: 35°C
+2025-05-18 15:04:06.690 - WARNING - Temperature is high: 35°C. Consider taking precautions.
+2025-05-18 15:04:06.690 - INFO - Checking temperature: 5°C
+2025-05-18 15:04:06.690 - WARNING - Temperature is low: 5°C. Dress warmly.
+2025-05-18 15:04:06.690 - INFO - Checking temperature: 20°C
+2025-05-18 15:04:06.690 - INFO - Temperature is comfortable: 20°C.
+2025-05-18 15:04:06.690 - INFO - Area of rectangle: 50
+2025-05-18 15:04:06.690 - INFO - Area 1: 50
+2025-05-18 15:04:06.690 - ERROR - Invalid dimensions! Length and width must be non-negative.
+2025-05-18 15:04:06.691 - INFO - Area 2: None
+2025-05-18 15:06:33.399 - INFO - starting python logging code
+2025-05-18 15:06:33.399 - INFO - Checking temperature: 35°C
+2025-05-18 15:06:33.399 - WARNING - Temperature is high: 35°C. Consider taking precautions.
+2025-05-18 15:06:33.399 - INFO - Checking temperature: 5°C
+2025-05-18 15:06:33.399 - WARNING - Temperature is low: 5°C. Dress warmly.
+2025-05-18 15:06:33.399 - INFO - Checking temperature: 20°C
+2025-05-18 15:06:33.399 - INFO - Temperature is comfortable: 20°C.
+2025-05-18 15:06:33.399 - INFO - Area of rectangle: 50
+2025-05-18 15:06:33.399 - INFO - Area 1: 50
+2025-05-18 15:06:33.399 - ERROR - Invalid dimensions! Length and width must be non-negative.
+2025-05-18 15:06:33.399 - INFO - Area 2: None
