@@ -82,10 +82,11 @@ Welcome to the **Python Data Engineer** learning repository! This repo contains 
 
 ---
 
-### 9. [Files Directory](https://github.com/gkdevops/python-data-engineer/tree/main/files)
-- **Overview:** File handling and manipulation for data storage and retrieval.
+### 9. [CSV Directory](https://github.com/gkdevops/python-data-engineer/tree/main/files)
+- **Overview:** CSV File handling and manipulation for data storage and retrieval.
 - **Key Concepts:**
   - Reading and writing text and CSV files
+  - Using csv file with Pandas library
   - File and directory operations using `os` and `shutil`
   - Handling file paths and exceptions
   - Data extraction and ingestion from files
