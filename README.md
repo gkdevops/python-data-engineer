@@ -72,12 +72,52 @@ Welcome to the **Python Data Engineer** learning repository! This repo contains 
 
 ---
 
-## 📂 Additional Directories
+### 8. [Randoms Directory](https://github.com/gkdevops/python-data-engineer/tree/main/randoms)
+- **Overview:** Working with randomness, generating random numbers and data for testing and simulations.
+- **Key Concepts:**
+  - Using Python’s `random` module for numbers, choices, and shuffling
+  - Generating random data for data engineering tasks
+  - Introduction to the `faker` library for synthetic data creation
+  - Practical examples: random sampling, data anonymization
 
-- **backup, blocks, database, files, json, logging, os, random, streamlit**  
-  These folders contain additional scripts covering the topics of file handling, json data handling, csv data handling, random and faker modules, os module and Streamlit, relevant to advanced data engineering, utility scripts, or project-specific examples.
-  - Explore these folders directly: [Repository Contents](https://github.com/gkdevops/python-data-engineer/tree/main/)
+---
 
+### 9. [Files Directory](https://github.com/gkdevops/python-data-engineer/tree/main/files)
+- **Overview:** File handling and manipulation for data storage and retrieval.
+- **Key Concepts:**
+  - Reading and writing text and CSV files
+  - File and directory operations using `os` and `shutil`
+  - Handling file paths and exceptions
+  - Data extraction and ingestion from files
+
+---
+
+### 10. [JSON Directory](https://github.com/gkdevops/python-data-engineer/tree/main/json)
+- **Overview:** Managing JSON data formats for configuration and data exchange.
+- **Key Concepts:**
+  - Reading and writing JSON files with Python’s `json` module
+  - Parsing and serializing complex JSON structures
+  - Real-world use cases: configuration files, API responses
+  - Data transformation between JSON and Python objects
+
+---
+
+### 11. [Blocks Directory](https://github.com/gkdevops/python-data-engineer/tree/main/blocks)
+- **Overview:** Code blocks and reusable scripts for modular data engineering workflows.
+- **Key Concepts:**
+  - Encapsulating logic in code blocks (functions, scripts)
+  - Organizing reusable code for ETL pipelines
+  - Example templates for batch processing and automation
+
+---
+
+### 12. [Logging Directory](https://github.com/gkdevops/python-data-engineer/tree/main/logging)
+- **Overview:** Logging and monitoring data engineering processes.
+- **Key Concepts:**
+  - Using Python’s `logging` module for event tracking
+  - Setting up log formats, levels, and handlers
+  - Best practices for error handling and process monitoring
+  - Writing logs to files and integrating with external tools
 ---
 
 ## 📎 How to Use This Repo
