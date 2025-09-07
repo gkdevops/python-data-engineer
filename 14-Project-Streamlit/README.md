@@ -30,13 +30,14 @@ This guide explains how to install Streamlit on both Linux and Windows machines 
 
 2. **(Optional) Create and activate a virtual environment:**
     ```bash
-    python3 -m venv 14-Project-Streamlit-env
-    source 14-Project-Streamlit-env/bin/activate
+    python3 -m venv venv
+    source venv/bin/activate
     ```
+    > Replace `venv` with any name you prefer for your virtual environment.
 
 3. **Install Streamlit using pip:**
     ```bash
-    pip install 14-Project-Streamlit
+    pip install streamlit
     ```
 
 ---
@@ -45,9 +46,10 @@ This guide explains how to install Streamlit on both Linux and Windows machines 
 
 1. **(Optional) Create and activate a virtual environment:**
     ```powershell
-    python -m venv streamlit-env
-    .\streamlit-env\Scripts\activate
+    python -m venv venv
+    .\venv\Scripts\activate
     ```
+    > Replace `venv` with any name you prefer.
 
 2. **Install Streamlit using pip:**
     ```powershell
@@ -72,7 +74,7 @@ This guide explains how to install Streamlit on both Linux and Windows machines 
 
     On both Linux and Windows, use the following command in your terminal:
     ```bash
-    14-Project-Streamlit run app.py
+    streamlit run app.py
     ```
 
 3. **Access the app**
