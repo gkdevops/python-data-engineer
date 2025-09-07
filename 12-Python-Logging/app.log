@@ -1,0 +1,10 @@
+2025-09-07 19:51:20.824 - INFO - starting python logging code
+2025-09-07 19:51:20.824 - INFO - Checking temperature: 35�C
+2025-09-07 19:51:20.824 - WARNING - Temperature is high: 35�C. Consider taking precautions.
+2025-09-07 19:51:20.824 - INFO - Checking temperature: 5�C
+2025-09-07 19:51:20.824 - WARNING - Temperature is low: 5�C. Dress warmly.
+2025-09-07 19:51:20.824 - INFO - Checking temperature: 20�C
+2025-09-07 19:51:20.825 - INFO - Temperature is comfortable: 20�C.
+2025-09-07 19:51:20.825 - INFO - Area of rectangle: 50
+2025-09-07 19:51:20.825 - INFO - Area 1: 50
+2025-09-07 19:51:20.825 - ERROR - Invalid dimensions! Length and width must be non-negative.
