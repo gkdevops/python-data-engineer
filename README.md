@@ -8,7 +8,7 @@ Welcome to the **Python Data Engineer** learning repository! This repo contains 
 
 ## 📚 Topics Covered
 
-### 1. [Python Introduction](https://github.com/gkdevops/python-data-engineer/blob/main/1-Python-Introduction.ipynb)
+### 01. [Python Introduction](https://github.com/gkdevops/python-data-engineer/blob/main/1-Python-Introduction.ipynb)
 - **Overview:** Introduction to Python, variables, data types, and basic operations.
 - **Key Concepts:** 
   - Printing and string manipulation
@@ -19,7 +19,7 @@ Welcome to the **Python Data Engineer** learning repository! This repo contains 
 
 ---
 
-### 2. [Python Conditions](https://github.com/gkdevops/python-data-engineer/blob/main/2-Python-Conditions.ipynb)
+### 02. [Python Conditions](https://github.com/gkdevops/python-data-engineer/blob/main/2-Python-Conditions.ipynb)
 - **Overview:** Mastering conditional statements for decision making.
 - **Key Concepts:** 
   - `if`, `elif`, `else` statements
@@ -28,7 +28,7 @@ Welcome to the **Python Data Engineer** learning repository! This repo contains 
 
 ---
 
-### 3. [Python Loops](https://github.com/gkdevops/python-data-engineer/blob/main/3-Python-Loops.ipynb)
+### 03. [Python Loops](https://github.com/gkdevops/python-data-engineer/blob/main/3-Python-Loops.ipynb)
 - **Overview:** Using loops to automate repetitive tasks.
 - **Key Concepts:**
   - `for` and `while` loops
@@ -37,7 +37,7 @@ Welcome to the **Python Data Engineer** learning repository! This repo contains 
 
 ---
 
-### 4. [Python Functions](https://github.com/gkdevops/python-data-engineer/blob/main/4-Python-Functions.ipynb)
+### 04. [Python Functions](https://github.com/gkdevops/python-data-engineer/blob/main/4-Python-Functions.ipynb)
 - **Overview:** Writing reusable blocks of code with functions.
 - **Key Concepts:**
   - Defining and calling functions
@@ -46,7 +46,7 @@ Welcome to the **Python Data Engineer** learning repository! This repo contains 
 
 ---
 
-### 5. [Python Operators](https://github.com/gkdevops/python-data-engineer/blob/main/5-Python-Operators.ipynb)
+### 05. [Python Operators](https://github.com/gkdevops/python-data-engineer/blob/main/5-Python-Operators.ipynb)
 - **Overview:** Using operators to manipulate data.
 - **Key Concepts:**
   - Arithmetic, assignment, comparison, logical, bitwise, and membership operators
@@ -54,7 +54,7 @@ Welcome to the **Python Data Engineer** learning repository! This repo contains 
 
 ---
 
-### 6. [Python Collections](https://github.com/gkdevops/python-data-engineer/blob/main/6-Python-Collection.ipynb)
+### 06. [Python Collections](https://github.com/gkdevops/python-data-engineer/blob/main/6-Python-Collection.ipynb)
 - **Overview:** Mastering data structures for efficient storage and retrieval.
 - **Key Concepts:**
   - Lists, tuples, sets, dictionaries
@@ -63,7 +63,7 @@ Welcome to the **Python Data Engineer** learning repository! This repo contains 
 
 ---
 
-### 7. [Python Modules & Packages](https://github.com/gkdevops/python-data-engineer/blob/main/7-Python-Modules%20%26%20Packages.ipynb)
+### 07. [Python Modules & Packages](https://github.com/gkdevops/python-data-engineer/blob/main/7-Python-Modules%20%26%20Packages.ipynb)
 - **Overview:** Organizing and reusing code with modules and packages.
 - **Key Concepts:**
   - The difference between modules, packages, and libraries (with LEGO analogies)
@@ -72,17 +72,7 @@ Welcome to the **Python Data Engineer** learning repository! This repo contains 
 
 ---
 
-### 8. [Randoms Directory](https://github.com/gkdevops/python-data-engineer/tree/main/randoms)
-- **Overview:** Working with randomness, generating random numbers and data for testing and simulations.
-- **Key Concepts:**
-  - Using Python’s `random` module for numbers, choices, and shuffling
-  - Generating random data for data engineering tasks
-  - Introduction to the `faker` library for synthetic data creation
-  - Practical examples: random sampling, data anonymization
-
----
-
-### 9. [CSV Directory](https://github.com/gkdevops/python-data-engineer/tree/main/files)
+### 08. [Files-CSV Directory](https://github.com/gkdevops/python-data-engineer/tree/main/files)
 - **Overview:** CSV File handling and manipulation for data storage and retrieval.
 - **Key Concepts:**
   - Reading and writing text and CSV files
@@ -93,13 +83,23 @@ Welcome to the **Python Data Engineer** learning repository! This repo contains 
 
 ---
 
-### 10. [JSON Directory](https://github.com/gkdevops/python-data-engineer/tree/main/json)
+### 09. [JSON Directory](https://github.com/gkdevops/python-data-engineer/tree/main/json)
 - **Overview:** Managing JSON data formats for configuration and data exchange.
 - **Key Concepts:**
   - Reading and writing JSON files with Python’s `json` module
   - Parsing and serializing complex JSON structures
   - Real-world use cases: configuration files, API responses
   - Data transformation between JSON and Python objects
+
+---
+
+### 10. [Randoms Directory](https://github.com/gkdevops/python-data-engineer/tree/main/randoms)
+- **Overview:** Working with randomness, generating random numbers and data for testing and simulations.
+- **Key Concepts:**
+  - Using Python’s `random` module for numbers, choices, and shuffling
+  - Generating random data for data engineering tasks
+  - Introduction to the `faker` library for synthetic data creation
+  - Practical examples: random sampling, data anonymization
 
 ---
 
