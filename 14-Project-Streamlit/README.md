@@ -1,6 +1,6 @@
 # Streamlit Installation and Usage Guide
 
-This guide explains how to install Streamlit on both Linux and Windows machines and how to run a basic Streamlit program.
+This guide explains how to install Streamlit on both Linux and Windows machines and how to run a Streamlit program.
 
 ---
 
@@ -60,33 +60,73 @@ This guide explains how to install Streamlit on both Linux and Windows machines 
 
 ## 4. Running a Streamlit Program
 
-1. **Create a Streamlit Python script**
+### Instructions to Run `streamlit_1.py` and `streamlit_2.py`
 
-    Example: `app.py`
-    ```python
-    import streamlit as st
+### Running `streamlit_1.py`
 
-    st.title('Hello, Streamlit!')
-    st.write('Welcome to your first Streamlit app!')
-    ```
+1. **Create and activate a virtual environment:**
+   ```sh
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
 
-2. **Run the Streamlit app**
+2. **Install required package:**
+   ```sh
+   pip3 install plotly
+   ```
 
-    On both Linux and Windows, use the following command in your terminal:
-    ```bash
-    streamlit run app.py
-    ```
+3. **Run the script (example):**
+   ```sh
+   python streamlit_1.py
+   ```
 
-3. **Access the app**
+4. **Deactivate the virtual environment:**
+   ```sh
+   deactivate
+   ```
 
-    After running the command, Streamlit will provide a local URL (usually `http://localhost:8501`) that you can open in your browser.
+5. **(Optional) Remove the virtual environment files:**
+   ```sh
+   rm -rf venv
+   ```
 
 ---
 
-## 5. Additional Resources
+### Running `streamlit_2.py`
 
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [Streamlit Community Forum](https://discuss.streamlit.io/)
+1. **Create and activate a virtual environment:**
+   ```sh
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+
+2. **Install required packages:**
+   ```sh
+   pip3 install streamlit
+   pip3 install plotly
+   pip3 install statsmodels
+   ```
+
+3. **Run the script (example):**
+   ```sh
+   python streamlit_2.py
+   ```
+
+4. **Deactivate the virtual environment:**
+   ```sh
+   deactivate
+   ```
+
+5. **(Optional) Remove the virtual environment files:**
+   ```sh
+   rm -rf venv
+   ```
+
+---
+
+**Note:**  
+- Ensure you are in the correct directory before running these commands.
+- Removing the `venv` folder will delete the virtual environment and all installed packages.
 
 ---
 
