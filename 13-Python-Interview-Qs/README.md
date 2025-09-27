@@ -124,6 +124,13 @@ finally:
 ### What is the difference between append() and extend() methods in a list?
 **Answer:**  
 `append()` adds a single element to the end of the list, while `extend()` adds all elements of an iterable (e.g., list, tuple) to the end of the list.
+numbers = [1, 2, 3]
+numbers.extend([4, 5])   # Adds elements one by one
+print(numbers)           # [1, 2, 3, 4, 5]
+
+numbers.extend("hi")     # Adds each character separately
+print(numbers)           # [1, 2, 3, 4, 5, 'h', 'i']
+
 
 ---
 
