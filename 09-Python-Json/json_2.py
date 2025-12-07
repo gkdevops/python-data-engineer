@@ -4,7 +4,7 @@ import json
 with open('data.json', 'r') as file:
     data = json.load(file)
 
-# Add a new employee
+# Add a new employee to the list
 new_employee = {"id": 3, "name": "Charlie", "role": "ML Engineer"}
 data['employees'].append(new_employee)
 

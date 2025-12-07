@@ -1,10 +1,10 @@
 import json
 
-# Load data
+# Load data from the JSON file
 with open('data.json', 'r') as file:
     data = json.load(file)
 
-# Filter only Data Engineers
+# Filter only Data Engineers from the employees list
 data_engineers = [emp for emp in data['employees'] if emp['role'] == 'Data Engineer']
 
 # Save filtered data to a new JSON file

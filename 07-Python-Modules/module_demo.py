@@ -10,5 +10,3 @@ message_hello = greetings.say_hello("Alice")
 message_goodbye = greetings.say_goodbye("Bob")
 print(message_hello)
 print(message_goodbye)
-
-#print(message) # Output: Hello, Alice!

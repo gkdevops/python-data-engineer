@@ -6,4 +6,5 @@ with open('data.json', 'r') as file:
 
 print("Employee Names:")
 for emp in data['employees']:
-    print(emp['name'])
+    print(emp) # This prints the complete employee dictionary
+    print(emp['name']) # This prints only the employee name

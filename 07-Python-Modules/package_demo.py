@@ -1,7 +1,9 @@
 # main_program.py
+
+import analytics_tools
 from analytics_tools import plotting # Use a module from the package
 import analytics_tools.stats     # Another way to use a module
-from analytics_tools.aws.aws_stats import aws_total_mean
+from analytics_tools.aws import aws_stats
 
 chart = plotting.create_bar_chart([1,2,3])
 print(chart) # Output: Bar chart created!

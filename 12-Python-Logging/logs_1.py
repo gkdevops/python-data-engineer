@@ -2,7 +2,7 @@ import logging
 
 # Configure basic logging to print messages to the console
 logging.basicConfig(level=logging.DEBUG)
-
+    
 # Log some informational messages
 logging.info("Program started.")
 
