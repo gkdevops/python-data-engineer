@@ -2,11 +2,9 @@
 
 Welcome to the **Python Data Engineer** learning repository! This repo contains a structured, practical set of Jupyter notebooks and example projects for learning core Python concepts with a focus on data engineering.
 
-> **Note:** This summary is based on the top-level files; for a full list of all tutorials and scripts, check the [GitHub repository contents](https://github.com/gkdevops/python-data-engineer/tree/main/).
-
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 ### 01. [Python Introduction](https://github.com/gkdevops/python-data-engineer/blob/main/01-Python-Introduction.ipynb)
 - **Overview:** Introduction to Python, variables, data types, and basic operations.
